@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "11@11.com",
+      "id": 1
+    },
+    {
+      "username": "22@22.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "22@22.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "33@33.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "88@88.com",
+      "password": "1234",
+      "id": 49
+    }
+  ]
+}
